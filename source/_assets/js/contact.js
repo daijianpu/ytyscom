@@ -24,11 +24,11 @@ if (contactForm) {
 
         fakeSend(contactForm)
             .then((response) => {
-                notyf.success('Your message has been sent.');
+                notyf.success('发送成功，你加我微信：242171');
                 contactForm.reset();
             })
             .catch((error) => {
-                notyf.error('Sending failed, try again later.');
+                notyf.error('发送失败，你加我微信:242171');
                 console.log(error.response);
             })
             .finally(() => {
