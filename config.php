@@ -4,9 +4,9 @@ return [
     'production' => false,
     'baseUrl' => 'https://artisanstatic.netlify.app',
     'site' => [
-        'title' => 'My Jigsaw Blog',
-        'description' => 'Personal blog of John Doe.',
-        'image' => 'default-share.png',
+        'title' => '樱庭雅树',
+        'description' => 'www.yingtingyashu.com',
+        'image' => 'https://img.alicdn.com/imgextra/i3/2710706468/O1CN01gYwxPj1xeOUy1nkr9_!!2710706468.jpg',
     ],
     'owner' => [
         'name' => 'John Doe',
