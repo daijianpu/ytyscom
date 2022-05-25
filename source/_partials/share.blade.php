@@ -1,15 +1,1 @@
-<button data-sharer="facebook" data-url="{{ $page->getUrl() }}" style="background: #3b5998;">
-    Facebook
-</button>
-
-<button data-sharer="twitter" data-url="{{ $page->getUrl() }}" data-title="{{ $page->title }}" style="background: #00aced;">
-    Twitter
-</button>
-
-<button data-sharer="reddit" data-url="{{ $page->getUrl() }}" style="background: #ff4500;">
-    Reddit
-</button>
-
-<button data-sharer="linkedin" data-url="{{ $page->getUrl() }}" style="background: #0077b5;">
-    LinkedIn
-</button>
+<div class="bsync-custom icon-long-orange"><a title="一键分享" class="bshare-bsync" onclick="javascript:bSync.share(event)"></a><span class="BSHARE_COUNT bshare-share-count">0</span></div> <script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/bsync.js#uuid=#uuid=&amp;style=1"></script>
