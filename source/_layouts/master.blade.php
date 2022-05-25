@@ -38,10 +38,9 @@
 
         <footer>
             <small>
-                &copy; <span data-year></span> 樱庭雅树 &nbsp;&bull;&nbsp;
-                <a href="/feed.atom">关于</a> &nbsp;&bull;&nbsp;
+                &copy; <span data-year></span> 樱庭雅树 
                 版权所有，侵权必究。 &nbsp;&bull;&nbsp;
-                <a href="https://github.com/raniesantos/artisan-static">联系</a>
+                <a href="/contact">联系</a>
             </small>
         </footer>
     </section>
