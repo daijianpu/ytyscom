@@ -38,10 +38,10 @@
 
         <footer>
             <small>
-                &copy; <span data-year></span> {{ $page->owner->name }} &nbsp;&bull;&nbsp;
+                &copy; <span data-year></span> 樱庭雅树 &nbsp;&bull;&nbsp;
                 <a href="/feed.atom">RSS</a> &nbsp;&bull;&nbsp;
-                Maintained by Ranie Santos &nbsp;&bull;&nbsp;
-                <a href="https://github.com/raniesantos/artisan-static">GitHub repo</a>
+                版权所有，侵权必究。 &nbsp;&bull;&nbsp;
+                <a href="https://github.com/raniesantos/artisan-static">关于</a>
             </small>
         </footer>
     </section>
