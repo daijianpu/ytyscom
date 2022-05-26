@@ -9,7 +9,7 @@
         <img src="{{ $page->image }}" style="object-fit: cover; height: 250px; width: 100%;">
     @endif
 
-    <p><br>
+    <p>
         @foreach ($page->tags as $tag)
             <a href="/tags/{{ $tag }}">{{ $tag }}</a>
             {{ $loop->last ? '' : '-' }}
