@@ -9,8 +9,7 @@
         <img src="{{ $page->image }}" style="object-fit: cover; height: 250px; width: 100%;">
     @endif
 
-    <p>
-        <strong>{{ $page->prettyDate('Y-m-d') }}</strong><br>
+    <p><br>
         @foreach ($page->tags as $tag)
             <a href="/tags/{{ $tag }}">{{ $tag }}</a>
             {{ $loop->last ? '' : '-' }}
@@ -34,6 +33,6 @@
     @if ($page->comments)
         @include('_partials.comments')
     @else
-        <p></p>
+        <p><strong>发表时间：{{ $page->prettyDate('Y-m-d') }}</strong></p>
     @endif
 @endsection
