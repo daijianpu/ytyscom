@@ -33,6 +33,6 @@
     @if ($page->comments)
         @include('_partials.comments')
     @else
-        <p><strong>发表时间：{{ $page->prettyDate('Y-m-d') }}</strong></p>
+        <p>发表时间：{{ $page->prettyDate('Y-m-d') }}</p>
     @endif
 @endsection
