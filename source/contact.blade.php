@@ -5,7 +5,7 @@
 @section('content')
     <h1>联系</h1>
 
-    <form action="https://formcarry.com/s/{{ $page->services->formcarry }}" method="post">
+    <form action="https://formcarry.com/s/v9yUD0L9szr" method="post">
         <div>
             <label for="sender">姓名</label><br>
             <input type="text" name="sender" id="sender" required>
