@@ -38,8 +38,8 @@
 
         <footer>
             <small>
-                &copy; <span data-year></span> 樱庭雅树 
-                版权所有，侵权必究。 &nbsp;&bull;&nbsp;
+                &copy; <span data-year></span>樱庭雅树&bull; 
+                版权所有，侵权必究。 &bull;
                 <a href="/contact">联系</a>
             </small>
         </footer>
