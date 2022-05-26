@@ -10,7 +10,7 @@
     @endif
 
     <p>
-        <strong>{{ $page->prettyDate('F j, Y') }}</strong><br>
+        <strong>{{ $page->prettyDate('YYYY-mm-dd') }}</strong><br>
         @foreach ($page->tags as $tag)
             <a href="/tags/{{ $tag }}">{{ $tag }}</a>
             {{ $loop->last ? '' : '-' }}
