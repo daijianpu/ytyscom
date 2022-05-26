@@ -4,25 +4,9 @@
 
 @section('content')
     <h1>联系</h1>
-
-    <form action="https://formcarry.com/s/v9yUD0L9szr" method="post">
-        <div>
-            <label for="sender">姓名</label><br>
-            <input type="text" name="sender" id="sender" required>
-        </div>
-
-        <div>
-            <label for="email">邮箱</label><br>
-            <input type="email" name="email" id="email" required>
-        </div>
-
-        <div>
-            <label for="message">内容</label><br>
-            <textarea name="message" id="message" required></textarea>
-        </div>
-
-        <input type="text" name="_gotcha" style="display: none;">
-
-        <input type="submit" name="submit" value="发送">
-    </form>
+<form action="https://formcarry.com/s/v9yUD0L9szr" method="POST">
+	<label for="email">填写你的邮箱</label>
+	<input type="email" name="email" id="email">
+	<button type="submit">等我回复你</button>
+</form>
 @endsection
