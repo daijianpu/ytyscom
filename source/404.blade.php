@@ -4,10 +4,10 @@ permalink: 404.html
 
 @extends('_layouts.master')
 
-@section('title', 'Page not found')
+@section('title', '404错误提示页面')
 
 @section('content')
-    <h1>404 Error</h1>
+    <h1>404错误提示页面！</h1>
 
-    <p>The page you were trying to access could not be found.</p>
+    <p>你访问的页面或查找的内容不存在!</p>
 @endsection
