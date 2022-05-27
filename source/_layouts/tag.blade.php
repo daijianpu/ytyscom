@@ -3,7 +3,7 @@
 @section('title', "关键词： '{$page->name()}'")
 
 @section('content')
-    <h1>Posts tagged '{{ $page->name() }}'</h1>
+    <h1>关键词： '{{ $page->name() }}'</h1>
 
     <ul>
         @forelse ($posts->filter->hasTag($page->name()) as $post)
