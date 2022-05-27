@@ -26,6 +26,7 @@
                 <ul>
                     <li><a href="/">首页</a></li>
                     <li><a href="/posts">博客</a></li>
+                    <li><a href="/keywords">分类</a></li>
                     <li><a href="/about">关于</a></li>
                     <li><a href="/contact">联系</a></li>
                 </ul>
