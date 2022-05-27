@@ -2,10 +2,10 @@
 title: '01 - Dummy Post'
 date: 2020-10-28
 tags:
-  - css
-  - javascript
-  - php
-  - laravel
+  - 技术
+  - 国际
+  - 感悟
+  - 经商
 image: https://res.cloudinary.com/artisanstatic/sample.jpg
 ---
 ## Heading 2
