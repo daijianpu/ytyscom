@@ -21,7 +21,7 @@
         <header>
             <nav>
                 <a href="/">
-  <img src="https://img.alicdn.com/imgextra/i3/2710706468/O1CN01gYwxPj1xeOUy1nkr9_!!2710706468.jpg" width="32"/>
+  <img src="https://img.alicdn.com/imgextra/i3/2710706468/O1CN01gYwxPj1xeOUy1nkr9_!!2710706468.jpg" width="50"/>
 </a><br>
                 <ul>
                     <li><a href="/">首页</a></li>
