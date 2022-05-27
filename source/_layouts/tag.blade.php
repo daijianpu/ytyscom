@@ -1,6 +1,6 @@
 @extends('_layouts.master')
 
-@section('title', "Posts tagged '{$page->name()}'")
+@section('title', "关键词： '{$page->name()}'")
 
 @section('content')
     <h1>Posts tagged '{{ $page->name() }}'</h1>
@@ -12,7 +12,7 @@
                 <small>{{ $post->prettyDate() }}</small>
             </li>
         @empty
-            <p>No posts to show.</p>
+            <p>暂时没有相关文章！</p>
         @endforelse
     </ul>
 @endsection
