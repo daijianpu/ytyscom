@@ -10,7 +10,7 @@
     @endif
     <p>
         @foreach ($page->tags as $tag)
-            <a href="/tags/{{ $tag }}">{{ $tag }}</a>
+            关键词：<a href="/tags/{{ $tag }}">{{ $tag }}</a>
             {{ $loop->last ? '' : '-' }}
         @endforeach
     </p>
