@@ -1,14 +1,14 @@
 @extends('_layouts.master')
 
 @section('title', $page->title)
-
+<hr>
 @section('content')
     <h1>{{ $page->title }}</h1>
 
     @if ($page->image)
         <img src="{{ $page->image }}" style="object-fit: cover; height: 250px; width: 100%;">
     @endif
-
+<hr>
     <p>
         @foreach ($page->tags as $tag)
             <a href="/tags/{{ $tag }}">{{ $tag }}</a>
@@ -19,14 +19,8 @@
     <blockquote data-phpdate="{{ $page->date }}">
         <em></em>
     </blockquote>
-
     <hr>
-
-    <p></p>
-
     @yield('postContent')
-
-    <hr>
 
     @include('_partials.share')
 
