@@ -1,21 +1,20 @@
 @extends('_layouts.master')
 
 @section('title', $page->title)
-<hr>
+
 @section('content')
     <h1>{{ $page->title }}</h1>
-
+<hr>
     @if ($page->image)
         <img src="{{ $page->image }}" style="object-fit: cover; height: 250px; width: 100%;">
     @endif
-<hr>
     <p>
         @foreach ($page->tags as $tag)
             <a href="/tags/{{ $tag }}">{{ $tag }}</a>
             {{ $loop->last ? '' : '-' }}
         @endforeach
     </p>
-
+<hr>
     <blockquote data-phpdate="{{ $page->date }}">
         <em></em>
     </blockquote>
