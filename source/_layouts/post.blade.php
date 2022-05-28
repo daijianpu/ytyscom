@@ -14,13 +14,11 @@
             {{ $loop->last ? '' : '-' }}
         @endforeach
     </p>
-<hr>
     <blockquote data-phpdate="{{ $page->date }}">
         <em></em>
     </blockquote>
-    <hr>
     @yield('postContent')
-
+<hr>
     @include('_partials.share')
 
     @if ($page->comments)
