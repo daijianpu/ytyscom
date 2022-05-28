@@ -30,8 +30,8 @@
                     <li><a href="/about">关于</a></li>
                     <li><a href="/contact">联系</a></li>
                 </ul>
+                </hr>
             </nav>
-            <hr>
         </header>
 
         <article>
@@ -41,7 +41,7 @@
         </article>
 
         <footer>
-        <hr>
+        </hr>
             <small>
                 &copy; <span data-year></span><a href="/about">樱庭雅树</a>&bull; 
                 版权所有，侵权必究。&bull;<a href="/contact">联系</a>
