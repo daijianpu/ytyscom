@@ -1,9 +1,9 @@
 @extends('_layouts.master')
 
-@section('title', "关键词： '{$page->name()}'")
+@section('title', "分类： '{$page->name()}'")
 
 @section('content')
-    <h1>关键词： '{{ $page->name() }}'</h1>
+    <h1>分类： '{{ $page->name() }}'</h1>
 
     <ul>
         @forelse ($posts->filter->hasTag($page->name()) as $post)
