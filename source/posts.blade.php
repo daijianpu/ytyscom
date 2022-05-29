@@ -6,7 +6,7 @@
     <h1>博客</h1>
 
     <ul>
-        @forelse ($posts->sortBy('title') as $post)
+        @forelse ($posts->sortBy('title', 'desc') as $post)
             <li>
                 <a href="{{ $post->getPath() }}">{{ $post->title }}</a>
                 <small>{{ $post->prettyDate('Y-m-d') }}</small>
