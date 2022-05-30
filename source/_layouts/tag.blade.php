@@ -1,6 +1,6 @@
 @extends('_layouts.master')
 
-@section('title', "分类： '{$page->name()}'")
+@section('title', "分类：{$page->name()}")
 
 @section('content')
     <h1>分类：{{ $page->name() }}</h1>
