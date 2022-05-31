@@ -4,11 +4,17 @@
 
 @section('content')
     <h1>联系</h1>
-    <form action="https://formcarry.com/s/v9yUD0L9szr" method="POST" accept-charset="UTF-8" >  
-<input type="email" name="email">
-<input type="text" name="firstName">
-<input type="text" name="lastName">
-<input type="text" name="anotherInput">
+<script src="https://carrier.formcarry.com/js/v1.js"></script>
+<form id="v9yUD0L9szr" accept-charset="UTF-8">
+<form id="my-formcarry">
+  <input name="first-name">
+  <input name="last-name">
+<button type="submit">Submit</button>
+</form>
+ 
+
+ 
+
 <a target="_blank" href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=Tn9-e3t6end3Dj8-YC0hIw" style="text-decoration:none;">给我写信</a>
     <h2>链接:</h2>
 
