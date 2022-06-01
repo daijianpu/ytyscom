@@ -15,11 +15,11 @@
 近期我公司网站购买了空间，设置了自动续费，我就把博客从新开起来了，有空的时候就写做。<br>
 <h2> 友好讨论！</h2>
 我的文章及观点，受制于我的认知不足，如果你不认同，肯定是你说的对。<br>
-你我素昧平生，没有必要为一个永生没见过的人吵架结仇，关掉这个网页！<br>
+你我素昧平生，没有必要为一个永生不见面的人吵架结仇，关掉这个网页！<br>
 <h2>联系我</h2>
 你可以给我发邮件，我每天工作都是打开邮箱的。<br>
 能随时看到你的留言，请不要发送不友好的言论。
 <ul>
-<li><a href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=Tn9-e3t6end3Dj8-YC0hIw" target="_blank">发邮件给我</a></li>
+<li><a href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=Tn9-e3t6end3Dj8-YC0hIw" target="_blank">向我发送邮件</a></li>
     </ul>
 @endsection
