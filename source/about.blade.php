@@ -4,6 +4,9 @@
 
 @section('content')
 <h1>关于</h1>
+<a href="/contact">
+  <img src="https://img.alicdn.com/imgextra/i3/2710706468/O1CN01gYwxPj1xeOUy1nkr9_!!2710706468.jpg" width="200"/>
+</a>
 <h2>为什么叫 樱庭雅树？</h2>
 我主业是与日本客户做国际贸易，但是公司名简写后有一个汉字在日语中没有对应的字。<br>
 导致货物收件时缺一个字，不好辨认造成了损失，因此生造这个昵称来弥补公司名的不足。<br>
