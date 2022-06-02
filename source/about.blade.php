@@ -16,13 +16,13 @@
 我小时候的梦想是成为作家，写诗歌和小说。事与愿违，我读了国际贸易，毕业后一直做生意。<br>
 其间也开过博客，但是由于主机空间不稳定，辛苦码字忘记了续费导致被删掉了，就没继续写。<br>
 近期我公司网站购买了空间，设置了自动续费，我就把博客从新开起来了，有空就来写一写。<br>
-<h2>友好讨论！</h2>
+<h2>友好讨论</h2>
 我的文章及观点，受制于我的认知不足，如果你不认同，必然是你说的对。<br>
 你我素昧平生，没有必要为一个永生不见面的人吵架结仇，关掉这个网页！<br>
-<h2>联系我</h2>
+<h2>在线留言</h2>
 你可以给我发邮件，我每天工作都是打开邮箱的。<br>
 能随时看到你的留言，不友好的言论我不作回复。
 <ul>
-<li><a href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=Tn9-e3t6end3Dj8-YC0hIw" target="_blank">向我发送邮件</a></li>
+<li><a href="http://mail.qq.com/cgi-bin/qm_share?t=qm_mailme&email=Tn9-e3t6end3Dj8-YC0hIw" target="_blank">向我发送留言</a></li>
     </ul>
 @endsection
