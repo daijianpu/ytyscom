@@ -1,8 +1,9 @@
 @extends('_layouts.master')
 
 @section('content')
-    <h1>我正在测试</h1>
-
+    <a href="/">
+  <img src="https://img.alicdn.com/imgextra/i3/2710706468/O1CN019y85M91xeOVxie1FG_!!2710706468.jpg" />
+</a>
     <p>11111</p>
 
     <p>222222</p>
