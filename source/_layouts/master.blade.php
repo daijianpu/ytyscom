@@ -29,6 +29,7 @@
                     <li><a href="/keywords">分类</a></li>
                     <li><a href="/about">关于</a></li>
                     <li><a href="/contact">联系</a></li>
+                    <li><a href="/xiaoshuo">小说</a></li>
                 </ul>
                 <hr>
             </nav>
