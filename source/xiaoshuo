@@ -1,6 +1,6 @@
 @extends('_layouts.master')
 
-@section('title', '小说')
+@section('title', '关于')
 
 @section('content')
 <h1>小说</h1>
