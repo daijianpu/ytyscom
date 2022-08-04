@@ -1,6 +1,6 @@
 ---
 title: '01 - hello world'
-date: 2022-06-02
+date: 2022-06-01
 tags:
   - 技术
   - 国际
