@@ -2,7 +2,7 @@
 
 @section('content')
     <a href="/">
-  <img src="https://img.alicdn.com/imgextra/i3/2710706468/O1CN019y85M91xeOVxie1FG_!!2710706468.jpg" />
+  <img src="https://img.alicdn.com/imgextra/i4/2710706468/O1CN01HifUHA1xeOWeSEkUP_!!2710706468.jpg" />
 </a>
 “敢有犯汉者，虽远必诛之！”<br>
 中华文明在历史上绝大部分时间都领先于其他文明！<br>
