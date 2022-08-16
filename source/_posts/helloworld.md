@@ -7,6 +7,7 @@ tags:
   - 感悟
   - 经商
   - 教育
+  - 小说
 image: https://img.alicdn.com/imgextra/i4/2710706468/O1CN01HifUHA1xeOWeSEkUP_!!2710706468.jpg
 comments: false
 ---
