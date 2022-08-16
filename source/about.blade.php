@@ -5,7 +5,7 @@
 @section('content')
 <h1>关于</h1>
 <a href="/contact">
-  <img src="https://img.alicdn.com/imgextra/i3/2710706468/O1CN01Skzhqo1xeOV7WjdgY_!!2710706468.jpg" width="200"/>
+  <img src="https://img.alicdn.com/imgextra/i3/2710706468/O1CN01Skzhqo1xeOV7WjdgY_!!2710706468.jpg" width="150"/>
 </a>
 <h2>樱庭雅树</h2>
 我的主业是与日本客户做国际贸易，由于公司名简写时有一个汉字在日语中没有对应的字。<br>
