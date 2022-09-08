@@ -4,16 +4,9 @@ return [
     'production' => false,
     'baseUrl' => 'https://artisanstatic.netlify.app',
     'site' => [
-        'title' => '樱庭雅树',
+        'title' => '四百八十四',
         'description' => 'www.yingtingyashu.com',
         'image' => 'https://img.alicdn.com/imgextra/i3/2710706468/O1CN01gYwxPj1xeOUy1nkr9_!!2710706468.jpg',
-    ],
-    'owner' => [
-        'name' => 'John Doe',
-    ],
-    'links' => [
-        'twitter' => 'https://twitter.com/johndoe',
-        'github' => 'https://github.com/johndoe',
     ],
     'services' => [
         'cmsVersion' => '~2.10',
