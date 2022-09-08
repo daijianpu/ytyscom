@@ -5,7 +5,7 @@
 @section('content')
 <h1>小说</h1>
 <h2>南昌四百八十四，几篇小说在知乎。</h2>
-<li>《桃之妖妖》</li>
+<li><a href="/posts/tzyy" >桃之妖妖</a></li>
 <li>《豆腐西尸》</li>
 <li>《人工智能路西法》</li>
  <ul>
