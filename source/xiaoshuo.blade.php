@@ -4,7 +4,7 @@
 
 @section('content')
 <h1>小说</h1>
-<h2>纯属虚构，请勿当真。</h2>
+<h3>纯属虚构，请勿当真。</h3>
 <li><a href="/posts/tzyy" >《桃之妖妖》</a></li>
 <li>《豆腐西尸》</li>
 <li>《人工智能路西法》</li>
