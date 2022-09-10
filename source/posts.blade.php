@@ -12,7 +12,7 @@
                 <small>{{ $post->prettyDate('Y-m-d') }}</small>
             </li>
         @empty
-            <p>暂时没有发表博客！</p>
+            <p>暂时没有文章，稍后再来！</p>
         @endforelse
     </ul>
 @endsection
