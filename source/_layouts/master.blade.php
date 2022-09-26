@@ -31,7 +31,7 @@
                     <li><a href="/contact">联系</a></li>
                     <li><a href="/xiaoshuo">小说</a></li>
                 </ul>
-                <hr>
+                <hr style="border-color: silver"/>
             </nav>
         </header>
 
@@ -42,7 +42,7 @@
         </article>
 
         <footer>
-        <hr>
+         <hr style="border-color: silver"/>
             <small>
                 &copy; <span data-year></span>&bull;<a href="/about">四百八十四</a> 
                 版权所有，侵权必究。&bull;<a href="/contact">联系</a>
