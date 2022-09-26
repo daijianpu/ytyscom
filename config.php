@@ -8,16 +8,6 @@ return [
         'description' => 'www.yingtingyashu.com',
         'image' => 'https://img.alicdn.com/imgextra/i3/2710706468/O1CN01gYwxPj1xeOUy1nkr9_!!2710706468.jpg',
     ],
-    'services' => [
-        'cmsVersion' => '~2.10',
-        'analytics' => 'UA-XXXXX-Y',
-        'disqus' => 'artisanstatic',
-        'formcarry' => 'v9yUD0L9szr',
-        'cloudinary' => [
-            'cloudName' => 'artisanstatic',
-            'apiKey' => '365895137117119',
-        ],
-    ],
     'collections' => [
         'posts' => [
             'path' => 'posts/{filename}',
