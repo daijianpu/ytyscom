@@ -1,9 +1,10 @@
 @extends('_layouts.master')
 
-@section('title', 'ご注文方法')
+@section('title', '小说')
 
 @section('content')
-<h1>ご注文方法</h1>
+<h1>小说</h1>
+<hr style="border-color: silver"/>
 <h3>纯属虚构，请勿当真。</h3>
 <li><a href="/posts/tzyy" >《桃之妖妖》</a></li>
 <li>《豆腐西尸》</li>
